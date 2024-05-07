@@ -1234,3 +1234,7 @@ body.light-theme {
   align-items: center;
   gap: 4px;
 }
+
+.about__box:-webkit-any-link {
+  color: var(--text-color);
+}
